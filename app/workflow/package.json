@@ -37,7 +37,7 @@
     "@flowgram.ai/minimap-plugin": "0.1.28",
     "@flowgram.ai/free-container-plugin": "0.1.28",
     "@flowgram.ai/free-group-plugin": "0.1.28",
-    "@flowgram.ai/form-materials": "0.1.28",
+    "@flowgram.ai/form-materials": "0.4.10",
     "lodash-es": "^4.17.21",
     "nanoid": "^4.0.2",
     "react": "^18",
